@@ -1,4 +1,3 @@
 # Deep-Learning-project
 
-Based on image classification 
-using CNN
+A Deep Learning based project for Yoga Pose Classification
