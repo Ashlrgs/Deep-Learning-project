@@ -9,5 +9,8 @@ preprocessing of model is done!!!!
 
 algorithms that arer going to be using is:-
 
-1)feed forward neural Network
+1)feed forward neural Network \n
 2)CNN
+
+
+Yepp!!!
