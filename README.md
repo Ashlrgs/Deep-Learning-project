@@ -13,5 +13,7 @@ algorithms that arer going to be using is:-
 
 2)CNN
 
+.......................................
+
 
 Yepp!!!
