@@ -16,7 +16,7 @@ algorithms that arer going to be using is:-
 .......................................
 
 Deep Learning
-Deep ldearning
+Deep learning
 
 
 ........................................
