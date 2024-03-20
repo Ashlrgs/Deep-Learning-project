@@ -26,3 +26,6 @@ This project aims to develop a deep learning-based system for automatically dete
 4)NumPy
 5)Matplotlib (for visualization)
 5)Flask 
+
+
+Currently working on this project...
