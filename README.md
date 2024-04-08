@@ -1,4 +1,4 @@
-!(https://github.com/yourusername/Yogify-DeepPose/blob/main/images/yoga_pose.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphotos%2Fyoga&psig=AOvVaw26M0KylcGxyMr3uFj8Sgwv&ust=1712653737466000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOjso72isoUDFQAAAAAdAAAAABAJ))
+
 
 Yogify-DeepPose: A Yoga Pose Classifier
 
