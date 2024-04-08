@@ -1,4 +1,4 @@
-![yoga](https://github.com/Ashlrgs/Yogify-DeepPose--A_Yoga_Pose_Classifier/blob/main/yoga.jpg)
+
 
 Yogify-DeepPose: A Yoga Pose Classifier
 
