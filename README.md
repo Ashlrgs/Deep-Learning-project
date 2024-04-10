@@ -1,4 +1,4 @@
-<img src="https://github.com/Ashlrgs/Yogify-DeepPose--A_Yoga_Pose_Classifier/raw/main/yoga.jpg" alt="yoga" width="300" height="100">
+<img src="https://github.com/Ashlrgs/Yogify-DeepPose--A_Yoga_Pose_Classifier/raw/main/yoga.jpg" alt="yoga" width="850" height="200">
 
 
 Yogify-DeepPose: A Yoga Pose Classifier
