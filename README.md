@@ -15,3 +15,5 @@ Utilizes CNNs for image classification
 Incorporates pre-trained models such as VGG16 and AlexNet
 Provides accurate and reliable yoga pose classification
 
+
+--- run this code on colab or any python enviornment and classify the yoga images from extracting the features from the above code.
